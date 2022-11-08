@@ -26,5 +26,11 @@ con.commit()  # Remember to commit the transaction after executing INSERT.
 
 for row in cur.execute("SELECT year, title FROM movie ORDER BY year"):
     print(row)
+
+
+print("______________________________________________________________________")
+for row in cur.execute("SELECT year, title FROM movie WHERE year = 1982"):
+    print(f"1982-es filmek: {row}") 
+
     
 con.close()
