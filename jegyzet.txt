@@ -1,0 +1,13 @@
+Jegyzet
+
+Bevezetés: Azt gondolná az ember, hogy a backend és a frontend két külön dolog, ez nem igaz mert mind a kettő kéz a kézben jár. Hiába írunk egy jól összerakott weboldalt ha nincs meg a stílusa nincsenek jól összehangolva a színek, akkor nincs meg az összhang. Weboldalunknak mind a felhasználói felülete mind a moderátorok számára egyszerű felépítésű és könnyen átláthatón, használható.
+Általánosságban: Mikor készítettük a weboldalt nagy figyelmet szenteltünk annak hogy csak olyan képeket használjunk amik nincsenek szerzői joggal védve.
+Pozitívumok: Lássuk be egy blogweboldal átláthatósága nem a legegyszerűbb dolog ezért szükségünk van egy kis eligazításra, hogy tudjuk hol vagyunk. A baloldali menünek köszönhetően nem tudunk eltévedni oly könnyen a blogok és cikkek halmazában. Az új cikkek létrehozásánál rengeteg tulajdonsággal rendelkező szerkesztőt használtunk ami akár teljes HTML oldalak tud kezelni. A felhasználó kezelést egy erős letisztult, egyszerű módon oldottuk meg… Weboldalunk Reszponzív így gond nélkül olvashatunk cikkeket a képernyő méretétől függetlenül. 
+
+keretrendszerek: scss, django, rest api, pozitívumok, miért használtuk…
+
+mit tud a weboldal: Felhasználótól függően olvashatunk, írhattunk, szerkeszttethetünk blogokat, cikkeket.
+
+
+
+
